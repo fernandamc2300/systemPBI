@@ -17,7 +17,7 @@ import ictabla1 from "../assets/ic_tabla1.png";
 import iccolumna from "../assets/ic_columna.png";
 import icbarras1 from "../assets/ic_barras1.png";
 import icareas from "../assets/ic_area.png";
-import icdataset from "../assets/ic_DATASET.png";
+import icdataset from "../assets/ic_dataset.png";
 import iceliminar from "../assets/ic_eliminar.png";
 import iceditar1 from "../assets/ic_editar1.png";
 import icguardar from "../assets/ic_guardar.png";
